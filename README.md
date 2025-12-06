@@ -28,5 +28,3 @@ Can you reach Level 100 and become the Centurion?
 
 📜 License
 This project is open‑source. Feel free to fork, modify, and share.
-#joystick-right { bottom: 20px; right: 20px; }
-Now Ur All Done! Use the Code In VSCode!
