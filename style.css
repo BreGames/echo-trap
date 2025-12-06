@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  background: #0a0c12;
+  overflow: hidden;
+  font-family: 'Press Start 2P', monospace;
+}
+
+canvas { display: block; width: 100vw; height: 100vh; }
+
+/* Mobile joysticks (placeholder visuals) */
+.joystick {
+  position: absolute;
+  width: 120px; height: 120px; border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  border: 2px solid rgba(255,255,255,0.25);
+  touch-action: none; user-select: none;
+}
+#joystick-left { bottom: 20px; left: 20px; }
+#joystick-right { bottom: 20px; right: 20px; }
