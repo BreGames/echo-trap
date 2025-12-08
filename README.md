@@ -28,5 +28,5 @@ Can you reach Level 100 and become the Centurion?
 
 📜 License
 This project is open‑source. Feel free to fork, modify, and share.## 📥 Download
-[Download Echo Trap (Folder)] 
-(other Page)
+[Download Echo Trap!]
+(other Files)
